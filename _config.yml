@@ -1,7 +1,7 @@
 name: Kim Kenefsky
 favicon: null
 layout_spectrum: 0.26506
-typography_spectrum: 0.87141
+typography_spectrum: 0.64417
 title: The Kenefsky Group Real Estate Services
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#090502'
     - '#ffffff'
-    - '#3d3936'
-    - '#8a7769'
-    - '#b4a497'
+    - '#cfcac9'
+    - '#3a2c28'
+    - '#8d8887'
+    - '#5f5a59'
   brandStrength: 1
   lightness: 1
-  saturation: 0
+  saturation: 1
   rhythmicContrast: 0.75
 purpose: []
