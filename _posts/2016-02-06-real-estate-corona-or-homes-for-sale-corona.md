@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.searchingforkeys.com'
   name: 'Corona, California Real Estate :: The Kenefsky Group | RE/MAX Real Pros'
-  favicon: 'http://www.searchingforkeys.com/wp-content/themes/wp-base-theme/assets/media/build/favicon.ico'
   domain: www.searchingforkeys.com
+  url: 'http://www.searchingforkeys.com'
+  favicon: 'http://www.searchingforkeys.com/wp-content/themes/wp-base-theme/assets/media/build/favicon.ico'
 keywords:
   - kenefsky
   - house
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.searchingforkeys.com/'
 title: 'Real Estate Corona | homes for sale Corona'
-datePublished: '2016-02-06T09:20:32.790Z'
-dateModified: '2016-02-06T09:19:24.324Z'
+datePublished: '2016-02-06T09:20:52.440Z'
+dateModified: '2016-02-06T09:20:43.109Z'
 sourcePath: _posts/2016-02-06-real-estate-corona-or-homes-for-sale-corona.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
